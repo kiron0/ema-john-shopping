@@ -1,7 +1,8 @@
 .cart{
-    position: sticky;
-    top: 0;
+    position: fixed;
+    top: 100px;
     padding: 30px 20px;
+    /* z-index: 999; */
 }
 .cart h4{
     font-family: 'Lato';
